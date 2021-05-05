@@ -76,6 +76,15 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>It is hard to do TM without SRA, so understanding on how to rate risks is important. OWASP Risk Rating Methodology, name speaks for itself</p>
     </td>
   </tr>
+    <td>
+      <p>
+        <a href="http://www.includesnodirt.com/nodirt.pdf">INCLUDES NO DIRT methodology</a>
+      </p>
+    </td>
+    <td>
+      <p>Interesting approach to Threat Modeling for Digital Healthcare</p>
+    </td>
+  </tr>
 </table>
  
  Resources that nice to look at when you have experience in Threat Modeling
