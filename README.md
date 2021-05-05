@@ -76,6 +76,7 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>It is hard to do TM without SRA, so understanding on how to rate risks is important. OWASP Risk Rating Methodology, name speaks for itself</p>
     </td>
   </tr>
+  <tr>
     <td>
       <p>
         <a href="http://www.includesnodirt.com/nodirt.pdf">INCLUDES NO DIRT methodology</a>
@@ -83,6 +84,16 @@ Resources that nice to look at when you only start in Threat Modeling
     </td>
     <td>
       <p>Interesting approach to Threat Modeling for Digital Healthcare</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://owaspsamm.org/blog/2020/10/29/comparing-bsimm-and-samm/">BSIMM compared to SAMM</a>
+      </p>
+    </td>
+    <td>
+      <p>Comparison of BSIMM and SAMM that can be treated as intro to maturity models.</p>
     </td>
   </tr>
 </table>
