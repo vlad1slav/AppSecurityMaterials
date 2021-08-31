@@ -69,7 +69,8 @@ Resources that nice to look at when you only start in Threat Modeling
   <tr>
     <td>
       <p>
-        <a href="https://owasp.org/www-community/OWASP_Risk_Rating_Methodology">OWASP Risk Rating Methodology</a>
+        <a href="https://owasp.org/www-community/OWASP_Risk_Rating_Methodology">OWASP Risk Rating Methodology</a>, 
+        <a href="https://owasp-risk-rating.com/">OWASP Risk Rating Calculator</a>
       </p>
     </td>
     <td>
