@@ -116,6 +116,16 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>Manifesto do not include a guide on how to do TM, but gives several TM principles which is nice to review from time to time and compare with what you are doing during TM.</p>
     </td>
   </tr>
+    <tr>
+    <td>
+      <p>
+        <a href="https://increment.com/security/approachable-threat-modeling/">Approachable Threat Modeling</a>
+      </p>
+    </td>
+    <td>
+      <p>Nice article with examples on TM of particular functionality. When performing TM professionally things start getting more complicated, but that's topic for other day...</p>
+    </td>
+  </tr>
 </table>
  
  Resources that nice to look at when you have experience in Threat Modeling
