@@ -25,6 +25,16 @@ Resources that nice to look at when you only start in Threat Modeling
   <tr>
     <td>
       <p>
+        <a href="https://github.com/jassics/security-study-plan">Security Study Plans</a>
+      </p>
+    </td>
+    <td>
+      <p>Collection of study plans, including AppSec and, hopefully after a while, TM.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
         <a href="https://www.youtube.com/watch?v=ati80YcVJy8">Secure Agile Development According To SAMM - Rob Van Der Veer</a>
       </p>
     </td>
