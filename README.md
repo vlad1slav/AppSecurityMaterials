@@ -197,3 +197,7 @@ Resources that nice to look at when you only start in Threat Modeling
     </tr>
   </tbody>
 </table>
+
+Extras
+
+<a href="https://github.com/hysnsec/awesome-threat-modelling">Awesome Threat Modelling</a>
