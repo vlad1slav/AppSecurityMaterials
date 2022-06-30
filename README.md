@@ -96,6 +96,16 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>Comparison of BSIMM and SAMM that can be treated as intro to maturity models.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://www.threatmodelingmanifesto.org/">Threat Modeling Manifesto</a>
+      </p>
+    </td>
+    <td>
+      <p>Manifesto do not include a guide on how to do TM, but gives several TM principles which is nice to review from time to time and compare with what you are doing during TM.</p>
+    </td>
+  </tr>
 </table>
  
  Resources that nice to look at when you have experience in Threat Modeling
