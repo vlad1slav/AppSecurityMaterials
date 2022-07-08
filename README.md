@@ -195,6 +195,16 @@ Resources that nice to look at when you only start in Threat Modeling
         <p>How Threat Modeling is done in Autodesk. Interesting approach on how to work with developers.</p>
       </td>
     </tr>
+        <tr>
+      <td>
+        <p>
+          <a href="https://leaddev.com/security/supporting-influencing-and-leading-security-practitioner">Supporting, influencing, and leading as a security practitioner</a>
+        </p>
+      </td>
+      <td>
+        <p>Thoughts on how to communicate with the development team regarding security.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
