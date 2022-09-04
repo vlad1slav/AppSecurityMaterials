@@ -25,6 +25,16 @@ Resources that nice to look at when you only start in Threat Modeling
   <tr>
     <td>
       <p>
+        <a href="https://www.anshumanbhartiya.com/posts/secure-sdlc">A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)</a>
+      </p>
+    </td>
+    <td>
+      <p>Nice summary on activities with which we can start building our S-SDLC.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
         <a href="https://github.com/jassics/security-study-plan">Security Study Plans</a>
       </p>
     </td>
