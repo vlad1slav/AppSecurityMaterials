@@ -136,6 +136,17 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>Nice article with examples on TM of particular functionality. When performing TM professionally things start getting more complicated, but that's topic for other day...</p>
     </td>
   </tr>
+  </tr>
+    <tr>
+    <td>
+      <p>
+        <a href="https://towardsaws.com/aws-security-assessment-what-scanners-are-missing-and-how-threat-modeling-may-help-you-6a76c1c843f3">AWS security assessment: what scanners are missing and how threat modeling may help you?</a>
+      </p>
+    </td>
+    <td>
+      <p>Examples on how Threat Modeling may be helpful in Cloud environments.</p>
+    </td>
+  </tr>
 </table>
  
  Resources that nice to look at when you have experience in Threat Modeling
@@ -213,6 +224,17 @@ Resources that nice to look at when you only start in Threat Modeling
       </td>
       <td>
         <p>Thoughts on how to communicate with the development team regarding security.</p>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td>
+        <p>
+          <a href="https://roadmap.cloudsecdocs.com/infrastructure-review/">What to look for when reviewing a company's infrastructure</a>
+        </p>
+      </td>
+      <td>
+        <p>This checklist can be used in different situations, for TM I would recommend asking such questions when starting TMs in a new company.</p>
       </td>
     </tr>
   </tbody>
