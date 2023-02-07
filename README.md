@@ -147,6 +147,16 @@ Resources that nice to look at when you only start in Threat Modeling
       <p>Examples on how Threat Modeling may be helpful in Cloud environments.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://research.nccgroup.com/2023/01/31/threat-modelling-cloud-platform-services-by-example-google-cloud-storage/">Threat Modelling Cloud Platform Services by Example: Google Cloud Storage</a>
+      </p>
+    </td>
+    <td>
+      <p>Example of the Threat Model for app in Google Cloud.</p>
+    </td>
+  </tr>
 </table>
  
  Resources that nice to look at when you have experience in Threat Modeling
