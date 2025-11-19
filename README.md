@@ -250,6 +250,38 @@ Resources that nice to look at when you only start in Threat Modeling
   </tbody>
 </table>
 
+AI Threat Modeling
+<table>
+  <tr>
+    <td>
+      <p><strong> Resource </strong></p>
+    </td>
+    <td>
+      <p><strong>Description</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations">Agentic AI – Threats and Mitigations</a>
+      </p>
+    </td>
+    <td>
+      <p>Guide from the OWASP Agentic Security Initiative (ASI) that provides a threat-model-based reference on agentic threats.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro">Agentic AI Threat Modeling Framework: MAESTRO</a>
+      </p>
+    </td>
+    <td>
+      <p>MAESTRO (Multi-Agent Environment, Security, Threat, Risk, and Outcome), threat modeling framework designed specifically for the Agentic AI.</p>
+    </td>
+  </tr>
+</table>
+
 Extras
 
 <a href="https://github.com/hysnsec/awesome-threat-modelling">Awesome Threat Modelling</a>
